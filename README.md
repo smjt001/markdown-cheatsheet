@@ -18,6 +18,7 @@ For the frontend application,
 
 Depedencies used in frontend: 
 
+```
 "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -27,10 +28,11 @@ Depedencies used in frontend:
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^3.1.0",
     "vite": "^4.2.0"
-  }
-  
+  ```
+
 Dependencies used in Backend: 
 
+```
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
@@ -43,3 +45,4 @@ Dependencies used in Backend:
     "multer": "^1.4.5-lts.1",
     "node-fetch": "^2.6.9"
   }
+```
